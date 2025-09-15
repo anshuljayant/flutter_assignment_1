@@ -3,4 +3,5 @@
 This is my first Flutter project 🚀  
 
 ## 📸 Screenshot
-![App Screenshot](screenshots/app_preview.png)
+![App Screenshot](Screenshot 2025-09-15 162137.png)
+
